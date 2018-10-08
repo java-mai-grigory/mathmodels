@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\univer\mathmodels\labs\lab2\lab2_Csharp\lab2_Csharp\bin\Debug\lab2_Csharp.exe.config
+\\Mac\Home\Documents\univer\mathmodels\labs\lab2\lab2_Csharp\lab2_Csharp\bin\Debug\lab2_Csharp.exe
+\\Mac\Home\Documents\univer\mathmodels\labs\lab2\lab2_Csharp\lab2_Csharp\bin\Debug\lab2_Csharp.pdb
+\\Mac\Home\Documents\univer\mathmodels\labs\lab2\lab2_Csharp\lab2_Csharp\obj\Debug\lab2_Csharp.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\univer\mathmodels\labs\lab2\lab2_Csharp\lab2_Csharp\obj\Debug\lab2_Csharp.Form1.resources
+\\Mac\Home\Documents\univer\mathmodels\labs\lab2\lab2_Csharp\lab2_Csharp\obj\Debug\lab2_Csharp.Properties.Resources.resources
+\\Mac\Home\Documents\univer\mathmodels\labs\lab2\lab2_Csharp\lab2_Csharp\obj\Debug\lab2_Csharp.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\univer\mathmodels\labs\lab2\lab2_Csharp\lab2_Csharp\obj\Debug\lab2_Csharp.exe
+\\Mac\Home\Documents\univer\mathmodels\labs\lab2\lab2_Csharp\lab2_Csharp\obj\Debug\lab2_Csharp.pdb

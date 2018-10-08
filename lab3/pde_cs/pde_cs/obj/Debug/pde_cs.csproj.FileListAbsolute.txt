@@ -1,0 +1,10 @@
+D:\мат. моделирование\новые_лабы\pde_cs\pde_cs\bin\Debug\pde_cs.exe.config
+D:\мат. моделирование\новые_лабы\pde_cs\pde_cs\bin\Debug\pde_cs.exe
+D:\мат. моделирование\новые_лабы\pde_cs\pde_cs\bin\Debug\pde_cs.pdb
+D:\мат. моделирование\новые_лабы\pde_cs\pde_cs\obj\Debug\pde_cs.exe
+D:\мат. моделирование\новые_лабы\pde_cs\pde_cs\obj\Debug\pde_cs.pdb
+D:\мат. моделирование\новые_лабы\pde_cs\pde_cs\bin\Debug\ZedGraph.dll
+D:\мат. моделирование\новые_лабы\pde_cs\pde_cs\obj\Debug\pde_cs.graph.resources
+D:\мат. моделирование\новые_лабы\pde_cs\pde_cs\obj\Debug\pde_cs.csproj.GenerateResource.Cache
+D:\мат. моделирование\новые_лабы\pde_cs\pde_cs\obj\Debug\pde_cs.csprojResolveAssemblyReference.cache
+D:\мат. моделирование\новые_лабы\pde_cs\pde_cs\obj\Debug\pde_cs.csproj.CoreCompileInputs.cache

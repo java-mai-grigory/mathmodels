@@ -1,0 +1,10 @@
+D:\мат. моделирование\новые_лабы\fourier_cs\fourier_cs\bin\Debug\fourier_cs.exe.config
+D:\мат. моделирование\новые_лабы\fourier_cs\fourier_cs\bin\Debug\fourier_cs.exe
+D:\мат. моделирование\новые_лабы\fourier_cs\fourier_cs\bin\Debug\fourier_cs.pdb
+D:\мат. моделирование\новые_лабы\fourier_cs\fourier_cs\obj\Debug\fourier_cs.csprojResolveAssemblyReference.cache
+D:\мат. моделирование\новые_лабы\fourier_cs\fourier_cs\obj\Debug\fourier_cs.Properties.Resources.resources
+D:\мат. моделирование\новые_лабы\fourier_cs\fourier_cs\obj\Debug\fourier_cs.csproj.GenerateResource.Cache
+D:\мат. моделирование\новые_лабы\fourier_cs\fourier_cs\obj\Debug\fourier_cs.exe
+D:\мат. моделирование\новые_лабы\fourier_cs\fourier_cs\obj\Debug\fourier_cs.pdb
+D:\мат. моделирование\новые_лабы\fourier_cs\fourier_cs\obj\Debug\fourier_cs.Form1.resources
+D:\мат. моделирование\новые_лабы\fourier_cs\fourier_cs\obj\Debug\fourier_cs.csproj.CoreCompileInputs.cache
