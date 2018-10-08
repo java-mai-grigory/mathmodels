@@ -1,0 +1,16 @@
+import math
+import scipy.integrate as integrate
+
+
+def f(x):
+    k = math.sin(math.pi / 8)
+    return 1/ math.sqrt(1 - k**2 * math.sin(x)**2 )
+     
+def eliptic():
+    return integrate.quad(f, 0, math.pi / 2)[0]
+
+def test():
+    return 0
+
+
+print( eliptic() )

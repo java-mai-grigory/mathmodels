@@ -1,0 +1,26 @@
+import math
+import scipy.integrate as integrate
+
+
+def f(x):
+    k = math.sin(math.pi / 8)
+    return 1/ math.sqrt(1 - k**2 * math.sin(x)**2 )
+
+     
+def eliptic():
+    return integrate.quad(f, 0, math.pi / 2)[0]
+
+def seqtest():
+    eps = 0.000001
+    prev = P = S = 1.0
+    k = math.sin(math.pi / 8)
+    N = 10000000000
+    for i in range(1, N):
+        P *= 1.0 * (2* i - 1) / (2 * i);
+        S += P * P * k**(2*i) 
+        if ( math.fabs(prev - S) <= eps ) break
+    return S * math.pi / 2    
+
+
+print( eliptic() )
+print(seqtest())

@@ -1,0 +1,37 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/grigogorysemenov/Documents/univer/mathmodels/lab1/python/.metadata/.plugins/org.eclipse.core.resources/.projects/lab1/com.python.pydev.analysis/v2_indexcache
+integral|1535991734000000000|/Users/grigogorysemenov/Documents/univer/mathmodels/lab1/python/lab1/integral.py
+eliptic|1535926273000000000|/Users/grigogorysemenov/Documents/univer/mathmodels/lab1/python/lab1/eliptic.py
+graph|1535755879000000000|/Users/grigogorysemenov/Documents/univer/mathmodels/lab1/python/lab1/graph.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+2=integral
+1=/Users/grigogorysemenov/Documents/univer/mathmodels/lab1/python/lab1/integral.py
+5=/Users/grigogorysemenov/Documents/univer/mathmodels/lab1/python/lab1/eliptic.py
+3=/Users/grigogorysemenov/Documents/univer/mathmodels/lab1/python/lab1/graph.py
+6=eliptic
+4=graph
+-- END DICTIONARY
+-- START TREE 1
+15
+N|1|N!1^30#1*19@
+del|1|delta!1^32#1*19@
+dx|1|dx!3^23#1*35@
+eli|1|eliptic!5^10#5*50@
+f|2|f!5^5#5*50@f!1^5#5*18@
+fun|1|func!3^13#5*34@
+int|1|integral!1^8#5*18@
+lib|1|lib!1^27#5*18@
+res|1|res!1^31#1*19@
+seq|1|seqtest!5^13#5*50@
+sim|1|simpson!1^16#5*18@
+xli|1|xlist!3^26#1*35@
+xma|1|xmax!3^20#1*35@
+xmi|1|xmin!3^19#1*35@
+yli|1|ylist!3^29#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
